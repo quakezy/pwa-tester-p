@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "ga.htmlaccess.tester1",
+    "sha256_cert_fingerprints":
+    ["40:AE:B2:62:83:D5:20:11:FC:20:D3:71:80:15:97:3B:ED:79:EF:DF:B6:AB:4C:8E:E8:80:34:BD:19:D9:58:AD"]
+  }
+}]
